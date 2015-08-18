@@ -2,7 +2,7 @@
 # coding: utf8
 
 """Convertir la section 20 - Affaires contractuelles du fichier PDF de l'ordre du jour en format texte
-Version 2.4, 2015-08-18
+Version 1.0, 2015-08-18
 Développé en Python 3.4
 Licence CC-BY-NC 4.0 Pascal Robichaud, pascal.robichaud.do101@gmail.com"""
 
